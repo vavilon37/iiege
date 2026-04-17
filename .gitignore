@@ -1,0 +1,10 @@
+models/
+WinPython/
+llama.cpp/
+__pycache__/
+*.pyc
+.claude/
+tmp/
+answer.py
+prompt_tmp.txt
+~$*
