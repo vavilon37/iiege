@@ -9,9 +9,7 @@ title ЕГЭ ИИ Автономный Помощник (Мастер шабло
 color 0b
 
 set ROOT=%~dp0
-:: Путь к твоему Python внутри папки WinPython
-set PY_DIR=WinPython\python-3.11.9.amd64
-set PYTHON_EXE="%ROOT%%PY_DIR%\python.exe"
+set PYTHON_EXE="D:\WinPython\python-3.11.9.amd64\python.exe"
 set MAIN_PY="%ROOT%main.py"
 
 :: Запуск мастера
